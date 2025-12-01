@@ -1,2 +1,2 @@
-# Thesis-saits
+# thesis-saits
 SAITS project
